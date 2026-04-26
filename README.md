@@ -13,4 +13,4 @@ Canteen menu system built in Java with nested submenus and payment system.
 - Eclipse IDE
 
 ## Author
-arongga - UTU IT student
+Aron Villarnobo - UTU IT student

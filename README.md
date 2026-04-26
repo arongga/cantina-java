@@ -13,4 +13,4 @@ Menú de cantina desarrollado en Java con submenús anidados y sistema de pago.
 - Eclipse IDE
 
 ## Autor
-arongga - Estudiante de 1° de UTU Informática
+Aron Villarnobo - Estudiante de 1° de UTU Informática

@@ -1,16 +1,16 @@
-# Cantina Java
+# Java Canteen Menu
 
-Menú de cantina desarrollado en Java con submenús anidados y sistema de pago.
+Canteen menu system built in Java with nested submenus and payment system.
 
-## Funcionalidades
-- Menú principal con 4 categorías
-- Submenús de Refrescos, Almuerzos y Postres
-- Total acumulable por pedido
-- Sistema de pago y salida
+## Features
+- Main menu with 4 categories: Drinks, Lunches, Desserts and Snacks
+- Nested submenus for each category
+- Accumulated total per order
+- Input validation for invalid options
 
-## Tecnologías
+## Technologies
 - Java
 - Eclipse IDE
 
-## Autor
-Aron Villarnobo - Estudiante de 1° de UTU Informática
+## Author
+arongga - UTU IT student

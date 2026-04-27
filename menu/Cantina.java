@@ -1,7 +1,7 @@
 package menu;
 import java.util.Scanner;
 
-public class cantina {
+public class Cantina {
 
 	public static void main(String args [] ) {
 		Scanner dato = new Scanner(System.in);
